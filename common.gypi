@@ -12,7 +12,7 @@
     'python%': 'python',
     'node_engine%': 'v8',
     'msvs_windows_target_platform_version': 'v10.0', # used for node_engine==chakracore
-
+    '_type' : '',
     'node_shared%': 'false',
     'force_dynamic_crt%': 0,
     'node_use_v8_platform%': 'true',

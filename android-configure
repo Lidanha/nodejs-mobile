@@ -92,6 +92,5 @@ if [ -f "configure" ]; then
         --without-snapshot \
         --openssl-no-asm \
         --with-intl=none \
-        --engine=V8 \
-        --shared
+        --engine=V8
 fi
